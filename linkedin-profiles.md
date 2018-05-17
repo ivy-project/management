@@ -1,5 +1,5 @@
 # management
-Ivy Executive and Management Team
+Ivy Executive, Management Team and Advisors
 
 GARY FAN - President (https://www.linkedin.com/in/gary-fan-99489810/)
 
