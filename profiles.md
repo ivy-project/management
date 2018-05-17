@@ -20,3 +20,15 @@ MATEUSZ SPYCHAJ - Frontend Developer (https://www.linkedin.com/in/mate-it-mateus
 GRZEGORZ ŁYSKAWA - Web Developer (https://www.linkedin.com/in/grzegorz-lyskawa/)
 
 ANDRZEJ BUDZANOWSKI - Web Developer (https://www.linkedin.com/in/andrzej-budzanowski-444239138/)
+
+ASH SHILKIN - Strategic Advisor, CEO Change Financial (ASX: CCA) (https://www.linkedin.com/in/ash-shilkin-08420020/)
+
+ANDREW PIPOLO - Strategic Advisor, Former Managing Director Paypal Japan & Australia (https://www.linkedin.com/in/andrew-pipolo-b6b5a61/)
+
+KIRILL GOUROV - Strategic Advisor, Founder of Blocktech & Full Node Capital (https://www.linkedin.com/in/kgourov/)
+
+FEROZ SANAULLA - Strategic Advisor, Former CEO Intel Capital (https://www.linkedin.com/in/feroz-sanaulla-9355272/)
+
+ADAM SANTA MARIA - Strategic Advisor, Co-Founder and Managing Director at Discovery Capital Partners (https://www.linkedin.com/in/adamsantamaria/)
+
+TOM MARCHESELLO - Strategic Advisor, Former Blockchain Strategist at CME (https://www.linkedin.com/in/marchesello/)
